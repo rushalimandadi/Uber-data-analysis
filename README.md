@@ -23,6 +23,9 @@ Data Dictionary -  https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_
 <img width="266" alt="uber etl pipeline" src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/2ae44f43-08ba-41cc-9f9d-a247af098fd6">
 
 # Data Visualisation 
+* The total number of passengers travelled by Uber based on the data are 192.9K and the total amount made was $1.6M <br>
+* The average fare amount is $13.25 with an average tip amount being $1.9 <br>
+* Most used payment type is Credit card followed by cash. 
 <img width="517" alt="dashboard " src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/50f4c65e-a796-4273-b56f-92d187d369b7">
 
 
