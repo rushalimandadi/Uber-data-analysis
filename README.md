@@ -17,7 +17,15 @@ Data Dictionary -  https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_
 * Google BigQuery <br>
 * Looker Studio <br>
 # Data Modelling 
-<img width="705" alt="uber data modelling" src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/88607f90-323b-4839-884a-464910fae7fa">
+<img width="705" alt="uber data modelling" src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/88607f90-323b-4839-884a-464910fae7fa"> 
+
+# Uber Data Mage ETL Pipeline
+<img width="266" alt="uber etl pipeline" src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/2ae44f43-08ba-41cc-9f9d-a247af098fd6">
+
+# Data Visualisation 
+<img width="517" alt="dashboard " src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/50f4c65e-a796-4273-b56f-92d187d369b7">
+
+
 
 
 
