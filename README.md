@@ -13,8 +13,8 @@ Data Dictionary -  https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_
 * Google Cloud Platform <br>
 * Google Storage <br>
 * Mage Data Pipeline tool <br>
-* Compute Instance <br>
-* BigQuery <br>
+* Google Compute Instance <br>
+* Google BigQuery <br>
 * Looker Studio <br>
 # Data Modelling 
 <img width="705" alt="uber data modelling" src="https://github.com/rushalimandadi/Uber-data-analysis-/assets/128560589/88607f90-323b-4839-884a-464910fae7fa">
